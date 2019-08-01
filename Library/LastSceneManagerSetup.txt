@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/_GameAssets/Escenas/MaterialEmisivo.unity
+- path: Assets/_GameAssets/Escenas/MainEscena.unity
   isLoaded: 1
   isActive: 1
